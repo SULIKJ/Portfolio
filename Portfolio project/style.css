@@ -1,0 +1,21 @@
+body{
+  
+    background-color: rgb(240, 240, 240);
+    font-family: "neue-haas-grotesk-d", sans-serif;
+font-weight: 400;
+font-style: normal;
+font-size: xx-lrage;
+color: rgb(0, 0, 0);
+}
+h1{
+    text-align: left;
+}
+h2{
+    text-align: left
+}
+h3{
+    text-align: center;
+}
+h5{
+    text-align: end
+}
